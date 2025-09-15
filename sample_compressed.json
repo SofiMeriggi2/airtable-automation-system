@@ -1,0 +1,126 @@
+[
+  {
+    "Applicant ID": "0001",
+    "personal": {
+      "Full Name": "Jane Doe",
+      "Email": "jane@ex.com",
+      "Location": "NYC, United States",
+      "LinkedIn": "https://linkedin.com/in/janed"
+    },
+    "experience": [
+      {
+        "Company": "Google",
+        "Title": "SWE",
+        "Start": "01/01/2020",
+        "End": "01/06/2023",
+        "Technologies": "Python, GCP"
+      },
+      {
+        "Company": "Acme Co",
+        "Title": "Senior SWE",
+        "Start": "01/06/2023",
+        "End": "",
+        "Technologies": "Go, Kubernetes"
+      }
+    ],
+    "salary": {
+      "Preferred Rate": 95,
+      "Minimum Rate": 70,
+      "Currency": "USD",
+      "Availability (hrs/wk)": 30
+    }
+  },
+  {
+    "Applicant ID": "0002",
+    "personal": {
+      "Full Name": "Carlos Pérez",
+      "Email": "carlos@ex.com",
+      "Location": "Buenos Aires, Argentina",
+      "LinkedIn": "https://linkedin.com/in/carlosperez"
+    },
+    "experience": [
+      {
+        "Company": "Globant",
+        "Title": "Backend Developer",
+        "Start": "01/03/2018",
+        "End": "01/08/2020",
+        "Technologies": "Python, Django, PostgreSQL"
+      },
+      {
+        "Company": "Mercado Libre",
+        "Title": "DevOps Engineer",
+        "Start": "01/09/2020",
+        "End": "01/02/2022",
+        "Technologies": "AWS, Docker, Kubernetes"
+      }
+    ],
+    "salary": {
+      "Preferred Rate": 60,
+      "Minimum Rate": 45,
+      "Currency": "USD",
+      "Availability (hrs/wk)": 40
+    }
+  },
+  {
+    "Applicant ID": "0003",
+    "personal": {
+      "Full Name": "Ananya Sharma",
+      "Email": "ananya@ex.com",
+      "Location": "Bangalore, India",
+      "LinkedIn": "https://linkedin.com/in/ananyasharma"
+    },
+    "experience": [
+      {
+        "Company": "Infosys",
+        "Title": "QA Engineer",
+        "Start": "01/05/2019",
+        "End": "01/07/2021",
+        "Technologies": "Java, Selenium, TestNG"
+      },
+      {
+        "Company": "TCS",
+        "Title": "Automation Engineer",
+        "Start": "01/08/2021",
+        "End": "",
+        "Technologies": "Python, Playwright, CI/CD"
+      }
+    ],
+    "salary": {
+      "Preferred Rate": 40,
+      "Minimum Rate": 30,
+      "Currency": "USD",
+      "Availability (hrs/wk)": 25
+    }
+  },
+  {
+    "Applicant ID": "0004",
+    "personal": {
+      "Full Name": "Laura Müller",
+      "Email": "laura.mueller@ex.com",
+      "Location": "Berlin, Germany",
+      "LinkedIn": "https://linkedin.com/in/lauramueller"
+    },
+    "experience": [
+      {
+        "Company": "Meta",
+        "Title": "Software Engineer",
+        "Start": "10/01/2017",
+        "End": "10/12/2021",
+        "Technologies": "Java, Spring Boot, Oracle"
+      },
+      {
+        "Company": "N26",
+        "Title": "Senior Full Stack Engineer",
+        "Start": "10/13/2021",
+        "End": "",
+        "Technologies": "React, Node.js, AWS, Docker"
+      }
+    ],
+    "salary": {
+      "Preferred Rate": 85,
+      "Minimum Rate": 70,
+      "Currency": "USD",
+      "Availability (hrs/wk)": 35
+    }
+  }
+]
